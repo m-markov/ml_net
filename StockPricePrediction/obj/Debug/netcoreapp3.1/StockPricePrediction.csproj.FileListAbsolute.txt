@@ -1,0 +1,12 @@
+D:\development\ML\StockPricePrediction\bin\Debug\netcoreapp3.1\StockPricePrediction.exe
+D:\development\ML\StockPricePrediction\bin\Debug\netcoreapp3.1\StockPricePrediction.deps.json
+D:\development\ML\StockPricePrediction\bin\Debug\netcoreapp3.1\StockPricePrediction.runtimeconfig.json
+D:\development\ML\StockPricePrediction\bin\Debug\netcoreapp3.1\StockPricePrediction.runtimeconfig.dev.json
+D:\development\ML\StockPricePrediction\bin\Debug\netcoreapp3.1\StockPricePrediction.dll
+D:\development\ML\StockPricePrediction\bin\Debug\netcoreapp3.1\StockPricePrediction.pdb
+D:\development\ML\StockPricePrediction\obj\Debug\netcoreapp3.1\StockPricePrediction.AssemblyInfoInputs.cache
+D:\development\ML\StockPricePrediction\obj\Debug\netcoreapp3.1\StockPricePrediction.AssemblyInfo.cs
+D:\development\ML\StockPricePrediction\obj\Debug\netcoreapp3.1\StockPricePrediction.csproj.CoreCompileInputs.cache
+D:\development\ML\StockPricePrediction\obj\Debug\netcoreapp3.1\StockPricePrediction.dll
+D:\development\ML\StockPricePrediction\obj\Debug\netcoreapp3.1\StockPricePrediction.pdb
+D:\development\ML\StockPricePrediction\obj\Debug\netcoreapp3.1\StockPricePrediction.genruntimeconfig.cache
