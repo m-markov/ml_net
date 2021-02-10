@@ -1,0 +1,10 @@
+D:\development\ML\StockPricePredictionML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\development\ML\StockPricePredictionML.Model\bin\Debug\netstandard2.0\StockPricePredictionML.Model.deps.json
+D:\development\ML\StockPricePredictionML.Model\bin\Debug\netstandard2.0\StockPricePredictionML.Model.dll
+D:\development\ML\StockPricePredictionML.Model\bin\Debug\netstandard2.0\StockPricePredictionML.Model.pdb
+D:\development\ML\StockPricePredictionML.Model\obj\Debug\netstandard2.0\StockPricePredictionML.Model.csprojAssemblyReference.cache
+D:\development\ML\StockPricePredictionML.Model\obj\Debug\netstandard2.0\StockPricePredictionML.Model.AssemblyInfoInputs.cache
+D:\development\ML\StockPricePredictionML.Model\obj\Debug\netstandard2.0\StockPricePredictionML.Model.AssemblyInfo.cs
+D:\development\ML\StockPricePredictionML.Model\obj\Debug\netstandard2.0\StockPricePredictionML.Model.csproj.CoreCompileInputs.cache
+D:\development\ML\StockPricePredictionML.Model\obj\Debug\netstandard2.0\StockPricePredictionML.Model.dll
+D:\development\ML\StockPricePredictionML.Model\obj\Debug\netstandard2.0\StockPricePredictionML.Model.pdb
