@@ -8,6 +8,6 @@ Folder StockPricesPredicion:
 
 Folder ProductAnomalyDetection:
   - machine learning models for detecting spikes and change point anomalies in products data.
-  - Spike detection is for suspicious changes at time series data values
-  - Change point detection is for really important event stream distribution of values
+  - spike detection is for suspicious changes at time series data values
+  - change point detection is for really important event stream distribution of values
 
