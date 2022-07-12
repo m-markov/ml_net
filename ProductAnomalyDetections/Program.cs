@@ -8,6 +8,7 @@ namespace ProductAnomalyDetections
     class Program
     {
         static readonly string _dataPath = Path.Combine(Environment.CurrentDirectory, "TestData", "ProductData.txt");
+        
         //assign the Number of records in dataset file to constant variable
         const int _docsize = 35;
 
